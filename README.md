@@ -1,6 +1,6 @@
 # Tweet Sig Mobile
 
-<!-- Time-stamp: "2020-04-07T06:29:31Z" -->
+<!-- Time-stamp: "2020-04-07T06:35:03Z" -->
 
 ## What is this?
 
@@ -15,7 +15,7 @@ citation. The currently available message service is only Twitter.
 
 Read [README_en.html](http://jrf.cocolog-nifty.com/archive/tweet_sig/README_en.html).
 
-A original version for the Mozilla Firefox for PC or the Google Chrome is available at https://github.com/JRF-2018/tweet_sig .
+The original version for the Mozilla Firefox for PC or the Google Chrome is available at https://github.com/JRF-2018/tweet_sig .
 
 
 ## これは何？
@@ -26,7 +26,7 @@ Firefox for Android 用のアドオン。ボタンを押すことで、'#tweet-s
 
 [README_ja.html](http://jrf.cocolog-nifty.com/archive/tweet_sig/README_ja.html) をお読み下さい。
 
-オリギナルの Mozilla Firefox または Google Chrome 用も https://github.com/JRF-2018/tweet_sig にあります。
+オリジナルの Mozilla Firefox または Google Chrome 用も https://github.com/JRF-2018/tweet_sig にあります。
 
 
 ## Where can you get it?
